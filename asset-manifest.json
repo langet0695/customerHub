@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/langet0695/customerHub/static/css/main.f8ccce21.chunk.css",
+    "main.js": "/langet0695/customerHub/static/js/main.2716bb5d.chunk.js",
+    "main.js.map": "/langet0695/customerHub/static/js/main.2716bb5d.chunk.js.map",
+    "runtime-main.js": "/langet0695/customerHub/static/js/runtime-main.6bb9a891.js",
+    "runtime-main.js.map": "/langet0695/customerHub/static/js/runtime-main.6bb9a891.js.map",
+    "static/js/2.500bbd10.chunk.js": "/langet0695/customerHub/static/js/2.500bbd10.chunk.js",
+    "static/js/2.500bbd10.chunk.js.map": "/langet0695/customerHub/static/js/2.500bbd10.chunk.js.map",
+    "static/js/3.5921be41.chunk.js": "/langet0695/customerHub/static/js/3.5921be41.chunk.js",
+    "static/js/3.5921be41.chunk.js.map": "/langet0695/customerHub/static/js/3.5921be41.chunk.js.map",
+    "index.html": "/langet0695/customerHub/index.html",
+    "static/css/main.f8ccce21.chunk.css.map": "/langet0695/customerHub/static/css/main.f8ccce21.chunk.css.map",
+    "static/js/2.500bbd10.chunk.js.LICENSE.txt": "/langet0695/customerHub/static/js/2.500bbd10.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6bb9a891.js",
+    "static/js/2.500bbd10.chunk.js",
+    "static/css/main.f8ccce21.chunk.css",
+    "static/js/main.2716bb5d.chunk.js"
+  ]
+}
