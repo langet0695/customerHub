@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/customerHub/static/css/main.f8ccce21.chunk.css",
+    "main.js": "/customerHub/static/js/main.c11b5aa3.chunk.js",
+    "main.js.map": "/customerHub/static/js/main.c11b5aa3.chunk.js.map",
+    "runtime-main.js": "/customerHub/static/js/runtime-main.2b11e17f.js",
+    "runtime-main.js.map": "/customerHub/static/js/runtime-main.2b11e17f.js.map",
+    "static/js/2.51e7b17e.chunk.js": "/customerHub/static/js/2.51e7b17e.chunk.js",
+    "static/js/2.51e7b17e.chunk.js.map": "/customerHub/static/js/2.51e7b17e.chunk.js.map",
+    "static/js/3.5921be41.chunk.js": "/customerHub/static/js/3.5921be41.chunk.js",
+    "static/js/3.5921be41.chunk.js.map": "/customerHub/static/js/3.5921be41.chunk.js.map",
+    "index.html": "/customerHub/index.html",
+    "static/css/main.f8ccce21.chunk.css.map": "/customerHub/static/css/main.f8ccce21.chunk.css.map",
+    "static/js/2.51e7b17e.chunk.js.LICENSE.txt": "/customerHub/static/js/2.51e7b17e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2b11e17f.js",
+    "static/js/2.51e7b17e.chunk.js",
+    "static/css/main.f8ccce21.chunk.css",
+    "static/js/main.c11b5aa3.chunk.js"
+  ]
+}
