@@ -18,7 +18,7 @@ function LicenseCenter({ EngagementTypes }) {
                 <div class="toppane">
                     <div class="containerFullHeightDiv">
                         <div class="containerFullWidthDiv">
-                            Acme Inc, welcome to the Qualtrics Services Offering Page!
+                            Manage your account, contract and license settings here!
                         </div>
                         <div class="containerFullWidthDiv"></div>
                     </div>
@@ -32,8 +32,8 @@ function LicenseCenter({ EngagementTypes }) {
                             </tr>
                             <tr>
                                 <td><Link to="/licensecenter"><button class="buttonstyle" type="button">Account Management</button></Link></td>
-                                <td><button class="buttonstyle" type="button">Engagement History</button></td>
-                                <td><Link to="/"><button class="buttonstyle" type="button">Resource Center</button></Link></td>
+                                <td><Link to="/engagementhistory"><button class="buttonstyle" type="button">Engagement History</button></Link></td>
+                                <td><Link to="/customerHub"><button class="buttonstyle" type="button">Resource Center</button></Link></td>
                             </tr>
                         </table>
                     </div>
@@ -44,7 +44,7 @@ function LicenseCenter({ EngagementTypes }) {
                         Custom calendar of upcoming events.
                     </div>
                     <div class="leftbottombox">
-                    In Need of Assistance? Contact your CSR <a href="https://basecamp.qualtrics.com/" title="CS Intake">here</a>!
+                    In Need of Assistance? Contact your CSR <a href="https://qglobalops.co1.qualtrics.com/jfe/form/SV_dneCmMmV9p9rwOy" title="CS Intake">here</a>!
                     </div>
                 </div>
                 

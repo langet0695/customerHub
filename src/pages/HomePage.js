@@ -97,8 +97,8 @@ function HomePage({EngagementTypes, customerTasks } ) {
                             </tr>
                             <tr>
                                 <td><Link to="/licensecenter"><button class="buttonstyle" type="button">Account Management</button></Link></td>
-                                <td><button class="buttonstyle" type="button">Engagement History</button></td>
-                                <td><Link to="/"><button class="buttonstyle" type="button">Resource Center</button></Link></td>
+                                <td><Link to="/engagementhistory"><button class="buttonstyle" type="button">Engagement History</button></Link></td>
+                                <td><Link to="/customerHub"><button class="buttonstyle" type="button">Resource Center</button></Link></td>
                             </tr>
                         </table>
                     </div>

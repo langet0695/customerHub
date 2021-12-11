@@ -7,6 +7,7 @@ import HomePage from './pages/HomePage';
 import BillPayPage from './pages/BillPayPage';
 import CustomerTasks from './data/CustomerTasks.js'
 import Engagements from './data/EngagementTypes'
+import EngagementHistoryPage from './pages/EngagementHistoryPage';
 
 
 function App() {  
@@ -15,11 +16,14 @@ function App() {
 
       <body  >
             <Router>
-                <Route path="/" exact>
+                <Route path="/customerHub" exact>
                   <HomePage customerTasks={CustomerTasks} EngagementTypes={Engagements}/>
                 </Route>
                 <Route path="/licensecenter">
                   <BillPayPage EngagementTypes={Engagements}/>
+                </Route>
+                <Route path="/engagementhistory">
+                  <EngagementHistoryPage />
                 </Route>
             </Router>
       </body>
